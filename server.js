@@ -18,7 +18,7 @@ const programs = [
 ]
 
 const videos = [
-    {id: 1, name: 'Day 1: Anti-aging face massage', programId: 1, video_url: 'https://d136w34xi8hav0.cloudfront.net/Body/4-Day_Yoga_for_Therapy_Reproductive_Organs/Let_the_tension_flow/01-Let_the_tension_flow_TUTORIAL_EDIT_01_720.mp4'},
+    {id: 1, name: 'Day 1: Anti-aging face massage for all', programId: 1, video_url: 'https://d136w34xi8hav0.cloudfront.net/Body/4-Day_Yoga_for_Therapy_Reproductive_Organs/Let_the_tension_flow/01-Let_the_tension_flow_TUTORIAL_EDIT_01_720.mp4'},
     {id: 2, name: 'Day 2: Yoga for slimmer face', programId: 1, video_url: 'https://d136w34xi8hav0.cloudfront.net/Body/4-Day_Yoga_for_Therapy_Reproductive_Organs/Let_the_tension_flow/01-Let_the_tension_flow_TUTORIAL_EDIT_01_720.mp4'},
     {id: 3, name: 'Day 3: Yoga for puffy eyes and dark circles', programId: 1, video_url: 'https://d136w34xi8hav0.cloudfront.net/Body/4-Day_Yoga_for_Therapy_Reproductive_Organs/Let_the_tension_flow/01-Let_the_tension_flow_TUTORIAL_EDIT_01_720.mp4'},
     {id: 4, name: 'Day 4: Yoga for face wrinkles', programId: 1, video_url: 'https://d136w34xi8hav0.cloudfront.net/Body/4-Day_Yoga_for_Therapy_Reproductive_Organs/Let_the_tension_flow/01-Let_the_tension_flow_TUTORIAL_EDIT_01_720.mp4'},
